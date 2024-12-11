@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome!!" />
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -57,3 +55,5 @@
       src="https://img.shields.io/badge/fnsl102626@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div
+
+![](./profile-3d-contrib/profile-green-animate.svg)
